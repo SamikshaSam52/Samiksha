@@ -4,3 +4,6 @@ import time
 t.colour("blue")
 t.begin_fill()
 
+counter=0
+
+while counter < 4:
