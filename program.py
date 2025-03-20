@@ -12,3 +12,5 @@ while counter < 4:
     counter = counter+1
     
 t.end_fill()
+time.sleep(5)
+
