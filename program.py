@@ -7,3 +7,5 @@ t.begin_fill()
 counter=0
 
 while counter < 4:
+    t.forward(100)
+
